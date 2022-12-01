@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! i'm Mr.Far</h1>
 
-<h3 align="center">Developer</h3>
+<h3 align="center"><a href="https://github.com/zebra-inc">Zebra</a>developer</h3>
 <p align="center">
   <a href="https://discord.com/channels/811205836704710686"><img src="https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord&logoColor=#7B68EE" /></a>
   <a href="http://zeroway.org"><img src="https://img.shields.io/badge/-ZWS-white?style=flat&logo=Google Earth&logoColor=#DA70D6" /></a>
