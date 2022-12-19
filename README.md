@@ -11,8 +11,3 @@
 
 ### ⭐️ Favorit languages
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow"> <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=CoffeeScript&logoColor=orange">
-
-
-### Most use lang
-<img align="middle" alt="test" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-far&layout=compact&theme=dark" />  
-
