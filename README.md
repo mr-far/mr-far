@@ -2,8 +2,7 @@
 
 <h3 align="center"><a href="https://github.com/zebra-inc">Zebra </a>developer</h3>
 <p align="center">
-  <a href="https://discord.com/channels/811205836704710686"><img src="https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord&logoColor=#7B68EE" /></a>
-  <a href="http://zeroway.org"><img src="https://img.shields.io/badge/-ZWS-white?style=flat&logo=Google Earth&logoColor=#DA70D6" /></a>
+  <a href="https://discord.gg/rUdeGy4AR7"><img src="https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord&logoColor=#7B68EE" /></a>
  <br>
 </p>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
