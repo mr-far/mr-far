@@ -9,4 +9,4 @@
 
 
 ### ⭐️ Favourite languages
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=CoffeeScript&logoColor=orange"> <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=TypeScript&logoColor=blue"> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow"> 
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=CoffeeScript&logoColor=orange"> <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue"> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow"> 
