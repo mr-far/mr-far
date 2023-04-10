@@ -2,7 +2,7 @@
 
 <h3 align="center"><a href="https://github.com/zebra-inc">Zebra </a>developer</h3>
 <p align="center">
-  <a href="https://discord.gg/spuGQYqXZh"><img src="https://img.shields.io/badge/-Discord?style=for-the-badge&logo=Discord&logoColor=#7B68EE"></a>
+  <a href="https://discord.gg/spuGQYqXZh"><img src="https://img.shields.io/badge/Discord?style=for-the-badge&logo=Discord&logoColor=#7B68EE"></a>
  <br>
 </p>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
