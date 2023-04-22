@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! i'm Mr.Far</h1>
 
-<h3 align="center">Java, TypeScript, Python developer that works in <a href="https://github.com/zebra-inc">Zebra</a></h3>
+<p align="center">Java, TypeScript, Python developer that works in <a href="https://github.com/zebra-inc">Zebra</a></p>
 <p align="center">
   <a href="https://discord.gg/spuGQYqXZh"> <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&logoColor=#7B68EE"> </a>
  <br>
