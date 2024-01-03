@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! i'm Mr.Far</h1>
 
-<p align="center">Java, TypeScript, Python, Go developer. <a href="https://github.com/zebra-inc">Zebra</a></p> contributer.
+<p align="center">Java, TypeScript, Python, Go developer.
 <p align="center">
   <a href="https://discord.gg/spuGQYqXZh"> <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&logoColor=#7B68EE"> </a>
  <br>
@@ -10,4 +10,3 @@
 
 ### ⭐️ Favourite languages
 <a href="https://java.com"><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=CoffeeScript&logoColor=orange"></a> <a href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue"></a> <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow"></a> <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go&logoColor=blue"></a>
-
