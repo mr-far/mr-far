@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi! i'm Mr.Far</h1>
 
-<p align="center">Java, TypeScript, Python, Go developer.
-<p align="center">
-  <a href="https://discord.gg/spuGQYqXZh"> <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&logoColor=#7B68EE"> </a>
- <br>
-</p>
+<p align="center">Rust, GoLang, Python, Java, TypeScript developer.
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 ### ⭐️ Favourite languages
