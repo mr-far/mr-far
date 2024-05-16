@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi! i'm Mr.Far</h1>
 
-<p align="center">Rust, GoLang, Python, Java, TypeScript developer.
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 ### ⭐️ Favourite languages
