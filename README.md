@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi! i'm Mr.Far</h1>
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 ### ⭐️ Favourite languages
